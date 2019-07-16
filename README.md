@@ -2,4 +2,4 @@
 Controlled via Hand Gestures
 
 
-[![]()](./image/demo.gif)
+![](./image/demo.gif)
